@@ -1,6 +1,7 @@
-# Lab8_Starter
+# Lab8 
+Hailey Duong
 
-## Check your understanding q's (FILL OUT)
+## Check your understanding Questions
 1. In your own words: Where would you fit your automated tests in your Bujo project development pipeline? (just write the letter) 
     
     1
